@@ -140,7 +140,7 @@ Built using **Gradio**, allowing users to:
 ### 1. Clone Repository
 
 ```bash
-git clone <your-repo-link>
+git clone https://github.com/ChNavya-777/Mobile_Addiction_Level_Predictor.git
 cd project-folder
 ```
 
